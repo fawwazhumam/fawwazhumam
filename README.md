@@ -36,16 +36,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31tjj6pupkz4zftby4bdi5easbcq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mf.humam&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <h3 align="left">💠Main Language ⬇️⬇️</h3>
 
 ###
