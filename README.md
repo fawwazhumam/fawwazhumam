@@ -16,6 +16,12 @@
 
 <br clear="both">
 
+<h3 align="center">🤪 Social Media 🤘🏻</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/fawwazhumam-ba8b652a6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
@@ -44,9 +50,7 @@
 
 ###
 
-<br clear="both">
 
-<h3 align="center">🤪 Social Media 🤘🏻</h3>
 
 ###
 
@@ -75,9 +79,5 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="31" alt="figma logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fawwazhumam/fawwazhumam/output/snake.svg" alt="Snake animation" />
 
 ###
