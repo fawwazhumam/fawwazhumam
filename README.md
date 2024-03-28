@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I'm Fawwaz Humam IT Enthusiast, have a nice day!!</p>
+<p align="left">Hello everyone...! I'M Fawwaz Humam, Apart from being a programmer I am also a UI/UX designer at Figma, I don't have much project experience in programming but I will continue to add to it, I already have quite a lot of experience in the UI/UX field.</p>
 
 ###
 
@@ -40,10 +40,6 @@
 
 ###
 
-
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -68,6 +64,15 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="31" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawwazhumam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fawwazhumam&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=8&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=fawwazhumam&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawwazhumam&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
